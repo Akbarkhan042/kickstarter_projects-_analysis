@@ -6,3 +6,6 @@ Kickstarter is an American public benefit corporation based in Brooklyn, New Yor
 The company's stated mission is to **"help bring creative projects to life"**. As of February 2023, Kickstarter has received US$7 billion in pledges from 21.7 million backers to fund 233,626 projects. The major categories of Kickstarter projects are  films, music, stage shows, comics, journalism, video games, board games, technology, publishing, and food-related projects.
 
 People who back Kickstarter projects are offered tangible rewards or experiences in exchange for their pledges.
+
+![R](https://github.com/Akbarkhan042/kickstarter_projects-_analysis/assets/156647226/e6da11e3-c7cf-4b89-9441-8faa7dd3568f)
+
