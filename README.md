@@ -37,4 +37,6 @@ This data comes from Maven Analytics & didn't required much cleaning. No blanks 
 ## DATA TRANSFORMATION
 
 Not much of data transformation was required in this project.
-We extracted year, month number and month name from the data column. For this purpose the Date tool from the Add Column tab was used because our aim was to add more columns to the dataset.
+In order to properly perform the analysis I first of all extracted time from the Launch Date column as it was present in datetime format. Then I calculated the number of days the project ran for from Launch Date & End Date.
+
+At last the Date from Add Column of Power Query was used to extract Year of launch, month name, month number from launch date. The month number was later used to sort the months properly via Power Pivot.
