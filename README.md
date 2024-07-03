@@ -40,3 +40,18 @@ Not much of data transformation was required in this project.
 In order to properly perform the analysis I first of all extracted time from the Launch Date column as it was present in datetime format. Then I calculated the number of days the project ran for from Launch Date & End Date.
 
 At last the Date from Add Column of Power Query was used to extract Year of launch, month name, month number from launch date. The month number was later used to sort the months properly via Power Pivot.
+
+## DATA ANALYSIS
+
+After the data cleaning and data transformation were complete we loaded the dataset to Pivot Table by **only creating connection** in order to summarize, aggregate and analyze our data.
+
+We created different pivot tables to analyze different aspects of our dataset. We sorted and filtered the pivot tables too in order to arrange them in decending order and extract the top-10 values only.
+
+Different questions that were answered:
+- Month wise number of projects, backers & amount pledged over the years.
+- Category wise number of projects, backers & amount pledged over the years.
+- Project state was number of projects & amount pledged.
+
+
+
+The data field settings was utelized to get our intended aggregation like sum, average, count etc for the numerical values and to remane the columns in pivot tables accordingly.
