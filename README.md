@@ -71,3 +71,8 @@ https://github.com/Akbarkhan042/kickstarter_projects-_analysis/assets/156647226/
 ## FINDINGS
 
 Upon the completion of our data analysis we have the following findings.
+
+- Over the years the number of projects veing launched on **Kickstarter** platform is having an upwards trend.
+- Games, Design & Technology categories are thr top-3 by amount of **$** pledged.
+- The top-3 ciuntries that launched projects on **Kickstarter** are The United States of America, The United Kingdom & Canada respectively.
+- Film & Video, Music and Publishing are the top-3 categories in which most number of projects were launched.
