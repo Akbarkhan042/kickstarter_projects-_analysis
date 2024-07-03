@@ -66,3 +66,8 @@ When we were done with our required analysis we visualized the results of the pi
 
 ## **DASHBOARD VIDEO SNIPPET**
 
+https://github.com/Akbarkhan042/kickstarter_projects-_analysis/assets/156647226/fd92dcfc-90fd-4e6d-9ad3-52adfe1ed382
+
+## FINDINGS
+
+Upon the completion of our data analysis we have the following findings.
