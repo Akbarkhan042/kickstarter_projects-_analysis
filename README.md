@@ -15,3 +15,14 @@ People who back Kickstarter projects are offered tangible rewards or experiences
 The objective of this project is to analyse the dataset containing the records of all Kickstarter projects launched during the period of 2009 - 2018 to find out the trends in number of projects launched & amount pledged to these projects over the years. We would also like to uncover different patterns present in the dataset like which category had the most amount pledged, which country launched the most number of projects etc.
 
 ### DATASET
+The dataset that we are working with contains records of all the Kickstarter projects launched around the world between the time period of 2009 to 2018.
+
+The dataset consists of 374853 records & 11 columns.
+
+### Tool
+This project was completed in MS Excel only. From data import to data profiling, cleaning and transformation was all performed in Excel. Then after the dataset was analysed, visuals were created on the basis of those analysis and a dashboard was created with interactivity.
+
+Different Excel tools that were utelised in this project:
+- Power Query  : For data import, profiling, cleaning & transformation.
+- Pivot Table  : For data summarization & aggregation and analysis.
+- Pivot Chart  : For visualization.
