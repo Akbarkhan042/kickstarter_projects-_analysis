@@ -51,7 +51,18 @@ Different questions that were answered:
 - Month wise number of projects, backers & amount pledged over the years.
 - Category wise number of projects, backers & amount pledged over the years.
 - Project state was number of projects & amount pledged.
+  
+Different measures like total projects, total category of projects, total pledged $, Avg. goal per project etc were created from thr power pivot section of excel.
 
+## DATA VISUALIZATION
 
+When we were done with our required analysis we visualized the results of the pivot tables using the Pivot Charts.
 
-The data field settings was utelized to get our intended aggregation like sum, average, count etc for the numerical values and to remane the columns in pivot tables accordingly.
+- Simple charts like a combo chart having 2 field as an Area chart and Line chart was used to display the trent over time.
+- Excel formula alongwith developer option is used to provide chart selection option.
+- Bar charts was used to show the manufacturers with most recalls & potentially affected consumers and the most frequent cause for recall.
+- A minimal design was chosen with very suttle colors in order to not make the dashboard busy.
+- Popping colors was primarily used to guide viewer's attention to are of interest.
+
+## **DASHBOARD VIDEO SNIPPET**
+
