@@ -9,6 +9,24 @@ People who back Kickstarter projects are offered tangible rewards or experiences
 
 ![R-removebg-preview](https://github.com/Akbarkhan042/kickstarter_projects-_analysis/assets/156647226/3c37d683-3a2b-4a12-96b9-2f7a7d58ac07)
 
+## TABLE OF CONTENT
+[PROJECT OBJECTIVE](#project-objective)
+
+[PROJECT WORKFLOW](#project-workflow)
+
+[DATA CLEANING](#data-cleaning)
+
+[DATA TRANSFORMATION](#data-transformation)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
+[DASHBOARD VIDEO SNIPPET](#dashboard-video-snippet)
+
+[FINDINGS](#findings)
+
+
 
 ## PROJECT OBJECTIVE
 
