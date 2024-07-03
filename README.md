@@ -19,10 +19,22 @@ The dataset that we are working with contains records of all the Kickstarter pro
 
 The dataset consists of 374853 records & 11 columns.
 
-### Tool
+### Tools
 This project was completed in MS Excel only. From data import to data profiling, cleaning and transformation was all performed in Excel. Then after the dataset was analysed, visuals were created on the basis of those analysis and a dashboard was created with interactivity.
 
 Different Excel tools that were utelised in this project:
 - Power Query  : For data import, profiling, cleaning & transformation.
 - Pivot Table  : For data summarization & aggregation and analysis.
 - Pivot Chart  : For visualization.
+
+## PROJECT WORKFLOW
+
+The project workflow consisted of Data Import to Excel via the Power Query. Once the data was imported to power query the data was profiled for errors, nulls, empty records using various tool fror data profiling. Upon the completion of data profiling we proceeded to data cleaning and transformations.
+
+## DATA CLEANING
+This data comes from Maven Analytics & didn't required much cleaning. No blanks or nulls were present in the dataset, there were no textual errors like capitalization error or white spaces either.
+
+## DATA TRANSFORMATION
+
+Not much of data transformation was required in this project.
+We extracted year, month number and month name from the data column. For this purpose the Date tool from the Add Column tab was used because our aim was to add more columns to the dataset.
