@@ -86,6 +86,10 @@ When we were done with our required analysis we visualized the results of the pi
 
 https://github.com/Akbarkhan042/kickstarter_projects-_analysis/assets/156647226/fd92dcfc-90fd-4e6d-9ad3-52adfe1ed382
 
+
+## [COMPLETE VIDEO TO ANALYSIS & DASHBOARDING](https://youtu.be/xk0r4OybU_k)
+Click on the above link to check out the complete guide to the analysis & dashboarding process.
+
 ## FINDINGS
 
 Upon the completion of our data analysis we have the following findings.
